@@ -59,9 +59,6 @@ cryptography==36.0.2
 custom-inherit==2.4.0
 cycler==0.10.0
 cymem==2.0.6
-Cython==0.29.14
-DALL-E==0.1
-de-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-2.2.5/de_core_news_sm-2.2.5.tar.gz
 debugpy==1.5.1
 decision==0.2.0
 decorator==4.4.2
