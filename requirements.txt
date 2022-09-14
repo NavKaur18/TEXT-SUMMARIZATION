@@ -151,8 +151,6 @@ networkx==2.6.3
 nlp2==1.8.47
 nlp2go==0.4.14
 nltk==3.5
-nose==1.3.7
-notebook==6.4.10
 pickle5==0.0.12
 pickleshare==0.7.5
 Pillow==8.4.0
