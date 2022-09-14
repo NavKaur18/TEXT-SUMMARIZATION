@@ -131,7 +131,6 @@ httpcore==0.9.1
 httplib2==0.20.4
 httpx==0.13.3
 huggingface-hub==0.0.12
-hyperframe==5.2.0
 mediapipe==0.8.8.1
 mistune==0.8.4
 monotonic==1.6
