@@ -137,10 +137,6 @@ monotonic==1.6
 moviepy==1.0.3
 mplfinance==0.12.9b1
 multidict==6.0.2
-multiprocess==0.70.11.1
-multiprocesspandas==1.1.2
-multitasking==0.0.11
-murmurhash==1.0.6
 pickle5==0.0.12
 pickleshare==0.7.5
 Pillow==8.4.0
