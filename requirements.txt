@@ -181,7 +181,6 @@ Markdown==3.3.7
 markdown-it-py==2.1.0
 markovchain==0.2.3
 MarkupSafe==1.1.1
-mathparse==0.1.2
 mediapipe==0.8.8.1
 mistune==0.8.4
 monotonic==1.6
