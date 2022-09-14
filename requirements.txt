@@ -141,16 +141,6 @@ multiprocess==0.70.11.1
 multiprocesspandas==1.1.2
 multitasking==0.0.11
 murmurhash==1.0.6
-mypy==0.971
-mypy-extensions==0.4.3
-nbclient==0.5.13
-nbconvert==6.4.4
-nbformat==5.2.0
-nest-asyncio==1.5.1
-networkx==2.6.3
-nlp2==1.8.47
-nlp2go==0.4.14
-nltk==3.5
 pickle5==0.0.12
 pickleshare==0.7.5
 Pillow==8.4.0
