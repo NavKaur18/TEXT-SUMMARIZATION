@@ -9,6 +9,6 @@ regex==2021.8.28
 requests
 requests-file==1.5.1
 requests-oauthlib
-torch==1.11.1
+torch==1.11.0
 transformers==4.15.0
 validators==0.18.2
