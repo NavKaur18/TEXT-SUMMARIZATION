@@ -19,5 +19,5 @@ You can choose between two models:
 - Facebook-Bart, trained on large CNN Daily Mail articles
 - Sshleifer-Distilbart, which is a distilled version of the large Bart model
 
-****It is important to note that long documents will take longer to generate summaries****
+****It is important to note that long documents will take longer to generate summaries.****
 
