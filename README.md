@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.7.6-blueviolet)
 ![Frontend](https://img.shields.io/badge/Frontend-Streamlit-green)
 
+APP LINK-https://navkaur18-text-summarization-app-7p8j67.streamlitapp.com/
+
 Generate summaries from texts using Streamlit & HuggingFace Pipeline
 
 Extract text from url and divide text into chunks if length of text is more than 500 words
