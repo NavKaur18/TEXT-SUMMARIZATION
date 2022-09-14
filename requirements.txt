@@ -152,13 +152,6 @@ ipython-genutils==0.2.0
 ipywidgets==7.7.0
 isort==5.10.1
 itsdangerous==2.0.1
-jedi==0.17.2
-Jinja2==2.11.3
-jinxed==1.2.0
-jmespath==1.0.1
-joblib==1.1.0
-json5==0.9.8
-jsonschema==3.2.0
 mediapipe==0.8.8.1
 mistune==0.8.4
 monotonic==1.6
