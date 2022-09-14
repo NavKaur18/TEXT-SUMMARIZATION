@@ -132,11 +132,6 @@ httplib2==0.20.4
 httpx==0.13.3
 huggingface-hub==0.0.12
 mediapipe==0.8.8.1
-mistune==0.8.4
-monotonic==1.6
-moviepy==1.0.3
-mplfinance==0.12.9b1
-multidict==6.0.2
 pickle5==0.0.12
 pickleshare==0.7.5
 Pillow==8.4.0
