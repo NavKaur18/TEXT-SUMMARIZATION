@@ -47,9 +47,6 @@ certifi==2021.10.8
 cffi==1.15.0
 chardet==3.0.4
 charset-normalizer==2.0.12
-chatbot==1.5.2b0
-ChatterBot==1.0.8
-chatterbot-corpus==1.2.0
 click==8.0.4
 cloudpickle==2.1.0
 cmdstanpy==1.0.4
@@ -78,8 +75,6 @@ docutils==0.19
 docx2txt==0.8
 dukpy==0.2.3
 emoji==1.7.0
-en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.2.5/en_core_web_md-2.2.5.tar.gz
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz
 entrypoints==0.3
 enum34==1.1.10
 ephem==4.1.3
