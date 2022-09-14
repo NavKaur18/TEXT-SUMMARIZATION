@@ -163,7 +163,6 @@ jupyter-client==7.1.0
 jupyter-core==4.9.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.1.0
-keras==2.7.0
 mediapipe==0.8.8.1
 mistune==0.8.4
 monotonic==1.6
